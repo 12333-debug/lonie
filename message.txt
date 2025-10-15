@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Change from feature branch
-=======
-Message from main branch
->>>>>>> 4b0fcd3 (Add message.txt in main branch)
+
